@@ -6,9 +6,17 @@
 <body>
     <h1>Rock, Paper, Scissors</h1>
     <div id="game-container">
-        <button id="rock">Rock</button>
-        <button id="paper">Paper</button>
-        <button id="scissors">Scissors</button>
+        <form>
+            <input type="radio" id="rock" name="choice" value="Rock">
+            <label for="rock">Rock</label>
+            
+            <input type="radio" id="paper" name="choice" value="Paper">
+            <label for="paper">Paper</label>
+            
+            <input type="radio" id="scissors" name="choice" value="Scissors">
+            <label for="scissors">Scissors</label>
+        </form>
+        <button id="play-button">Play</button>
     </div>
     <div id="result">
         <p>Result: <span id="result-text">Waiting for your choice...</span></p>
