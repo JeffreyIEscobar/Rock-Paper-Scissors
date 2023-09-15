@@ -12,8 +12,11 @@ This is a simple web-based Rock, Paper, Scissors game that allows users to play 
 ## Folder Structure
 
 - `index.html`: The main HTML file containing the game interface.
+  
 - `style.css`: The CSS file for styling the web page.
+  
 - `script.js`: The JavaScript file for implementing the game logic and interactivity.
+  
 - `main.cpp`: The C++ file containing the original game logic.
 
 ## Contributing
