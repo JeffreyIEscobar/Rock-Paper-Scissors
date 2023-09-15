@@ -16,4 +16,14 @@ This is a simple web-based Rock, Paper, Scissors game that allows users to play 
 - `script.js`: The JavaScript file for implementing the game logic and interactivity.
 - `main.cpp`: The C++ file containing the original game logic.
 
+## Contributing
 
+Contributions are welcome! If you'd like to enhance or customize this application, feel free to fork this repository and submit a pull request.
+
+## License
+
+- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For questions or feedback, please contact Jeffrey I. Escobar via Jeffreyianescobar@gmail.com
