@@ -5,8 +5,11 @@ This is a simple web-based Rock, Paper, Scissors game that allows users to play 
 ## Technologies Used
 
 - **HTML:** Used for creating the structure of the web page.
+  
 - **CSS:** Used for styling the web page.
+  
 - **JavaScript:** Used for implementing the game logic and interactivity.
+  
 - **C++:** Used for the original game logic.
 
 ## Folder Structure
